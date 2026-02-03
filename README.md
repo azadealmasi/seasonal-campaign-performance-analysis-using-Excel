@@ -3,14 +3,14 @@ Data analysis of a marketing campaign using Microsoft Excel, focusing on sales p
 
 ---  
 
-## 📌 Project Overview
+## Project Overview
 This project presents an end-to-end **seasonal campaign analysis using Microsoft Excel**, combining data processing, analysis, and an **interactive dashboard** to evaluate campaign performance.
 
 The goal of the project is to transform raw campaign data into clear insights through structured analysis, pivot tables, and a visual dashboard that supports data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Evaluate overall campaign performance  
 - Analyse sales and revenue trends  
 - Identify top-performing and underperforming products  
@@ -18,7 +18,7 @@ The goal of the project is to transform raw campaign data into clear insights th
 
 ---
 
-## 🗂️ Dataset & File Structure
+## Dataset & File Structure
 The analysis is contained in the following Excel file:
 
 - `Marketing_Campaign_Analysis.xlsx`
@@ -31,7 +31,7 @@ The workbook includes:
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 The Excel dashboard provides:
 - High-level campaign KPIs  
 - Visual comparison of product performance  
@@ -42,7 +42,7 @@ The dashboard enables stakeholders to quickly assess performance without navigat
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 - Data cleaning and preparation  
 - Sales and revenue aggregation using pivot tables  
 - Product-level performance analysis  
@@ -51,7 +51,7 @@ The dashboard enables stakeholders to quickly assess performance without navigat
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 - **Microsoft Excel**
   - Pivot Tables
   - Charts and visualisations
@@ -60,7 +60,7 @@ The dashboard enables stakeholders to quickly assess performance without navigat
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Sales performance varied notably across products  
 - A small number of products contributed a large proportion of total revenue  
 - The dashboard highlights clear trends and performance gaps relevant to marketing decisions  
