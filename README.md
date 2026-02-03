@@ -65,20 +65,6 @@ The dashboard enables stakeholders to quickly assess performance without navigat
 - A small number of products contributed a large proportion of total revenue  
 - The dashboard highlights clear trends and performance gaps relevant to marketing decisions  
 
-*(All insights are documented and visualised within the Excel dashboard.)*
 
----
 
-## 🚀 Future Improvements
-- Rebuild the dashboard using Power BI or Tableau  
-- Automate data processing using Python (Pandas)  
-- Extend the analysis to compare multiple campaigns  
-- Add forecasting and scenario analysis  
 
----
-
-## 👤 Author
-**[Your Name]**  
-Data Analyst | Data Scientist  
-
-This project is part of a personal data analytics portfolio.
